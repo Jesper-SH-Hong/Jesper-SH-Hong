@@ -2,7 +2,6 @@
 
 - https://jesper-sh-hong.github.io/
 
-👩🏻‍💻 I’m currently looking for a new-grad software enginer position.\
 ✏️ I’m currently studying Computer Systems Technology at BCIT.
 
 
