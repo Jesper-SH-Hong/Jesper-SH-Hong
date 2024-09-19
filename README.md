@@ -1,6 +1,6 @@
 ### Hi, I'm Jesper
 
-- https://jesper-sh-hong.github.io/
+- https://jesperhong.netlify.app/
 
 ✏️ I’m currently studying Computer Systems Technology at BCIT.
 
