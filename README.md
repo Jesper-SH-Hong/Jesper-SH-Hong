@@ -2,9 +2,7 @@
 
 - https://jesperhong.netlify.app/
 
-I am a full-stack developer with experience in every phase of the development lifecycle, from requirements definition to design, development, and testing.
-I have a strong background in web development and possess knowledge in blockchain technology and DeFi.
-My focus is on delivering innovative solutions that enhance user experience and meet client needs effectively.
+full-stack developer with experience in every phase of the development lifecycle.
 
 
 ### 💻 Technical Skills
