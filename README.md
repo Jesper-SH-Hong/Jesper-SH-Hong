@@ -38,8 +38,5 @@ full-stack developer with experience in every phase of the development lifecycle
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-
-![Jesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesper-SH-Hong&show_icons=true&theme=shades-of-purple)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesper-SH-Hong&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
